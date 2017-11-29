@@ -5,7 +5,7 @@ Template Name: Yearend-2016
 */?>
 <div class="parent">
 
-<?php include ('header_full_2016yearend.php');
+<?php include ('header_full.php');
 ?>
 
 
