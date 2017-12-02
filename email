@@ -1,0 +1,282 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=UTF-8' />
+<title>Untitled Document</title>
+<script  src='http://code.jquery.com/jquery-1.9.1.js'></script>
+<script type="text/javascript">
+//var html = 'http://evnational.org/temp/text.html';
+
+var strVar="";
+strVar += "";
+strVar += " ";
+strVar += " ";
+strVar += "";
+strVar += "Jan. 13: Rally for Sanctuary Campus";
+strVar += "4 p.m.: Whitworth University, Hixson Union Building, Spokane, WA  99251. Host: Spokane Dream Project";
+strVar += "47.75367, -117.41775";
+strVar += "";
+strVar += "";
+strVar += " ";
+strVar += " ";
+strVar += " ";
+strVar += " ";
+strVar += " ";
+strVar += " ";
+strVar += " ";
+strVar += "Issues & Actions: Immigration, MLK Day and Social Justice 2017";
+strVar += "Click a bubble to learn about immigrant rights events, MLK Day and social justice actions in your area starting on Jan. 13. Related story: http:\/\/bit.ly\/2jeT5Sp. This map from Marguerite Casey Foundation will be updated frequently. Questions? equalvoice@equalvoiceforfamilies.org";
+strVar += "more";
+strVar += "3,391 views";
+strVar += "All changes saved in Drive";
+strVar += "Add layerSharePreview";
+strVar += "Week of Jan. 9";
+strVar += "Individual styles";
+strVar += "Jan. 13: Rally for Sanctuary Campus";
+strVar += "Jan. 13: Protect Immigrants & Refugees";
+strVar += "Jan. 14: Protect Immigrants & Refugees";
+strVar += "Jan. 14: A Meal and Conversation About Equity";
+strVar += "Jan 14: March to Protect Immigrants and Refugees";
+strVar += "Jan. 14: Martin Luther King Parade";
+strVar += "Jan. 14: Press Conference to Protect Immigrants";
+strVar += "Jan. 14: Legal Resource and Education Fair";
+strVar += "Jan. 14: MLK Solidarity March";
+strVar += "Jan. 14: Florida Unity and Resistance Meeting";
+strVar += "Jan. 14: Immigrant and Refugee Rights Press Conference";
+strVar += "Jan. 14: March for Community Resistance (Resistencia Comunitaria)";
+strVar += "Jan. 14: DACA and Protecting Immigrants and Refugees";
+strVar += "Jan. 14: Immigrant Rights Forum, March and Rally";
+strVar += "Jan. 14: Rally for Resistance, Unity and Respect";
+strVar += "Jan. 14: Immigrant Rights Workshop";
+strVar += "Jan. 14: Rally to Protect Immigrants and Refugees";
+strVar += "Jan. 14: Press Conference to Protect Immigrants and Refugees";
+strVar += "Jan. 14: Unity Rally";
+strVar += "Jan. 14: Milwaukee March for Immigrant and Refugee Rights";
+strVar += "Jan. 14: Migration Information Workshop";
+strVar += "Jan. 14: Florida Unity and Resistance Community Meeting";
+strVar += "Jan. 14: We Are Here to Stay Rally (D.C.)";
+strVar += "Jan. 14: San Jose Day of Action";
+strVar += "Jan. 14: Seattle Resistance Town Hall";
+strVar += "Jan. 14: Immigrant Rights Rally";
+strVar += "Jan. 14: CareForce One Parade and Disco";
+strVar += "Jan. 14: Lewiston Rally for Immigrants and Refugees";
+strVar += "Jan. 14: Rally to Protect Immigrants and Refugees";
+strVar += "Jan. 14: Syracuse Art Collective Event to Support Immigrants";
+strVar += "Jan. 14: Miami\/Broward Immigrant Cultural Resistance";
+strVar += "Jan. 16: MLK Youth March";
+strVar += "Jan. 14: #HereToStay Rally";
+strVar += "Jan. 14: Letter Writing Party";
+strVar += "Jan. 14: March and Rally";
+strVar += "Jan. 14: March and Rally";
+strVar += "Jan. 14: Immigrant Rights Rally";
+strVar += "Jan. 14: Rally to Close Detention Center";
+strVar += "Jan. 14: Here to Stay Rally";
+strVar += "Jan. 16: MLK-DARE March";
+strVar += "Jan. 14: Resistance and Relief Training";
+strVar += "Jan. 14: Immigrant Rights Resource Fair";
+strVar += "Jan. 14: Know Your Rights Session";
+strVar += "Jan. 14: Immigrant Rights Vigil";
+strVar += "Jan. 14: Vigil to Protect Immigrants";
+strVar += "Jan. 14: Building Bridges Exhibition";
+strVar += "Jan. 16: Fighting Power, Building Power Event";
+strVar += "Jan. 16: Fighting Fear, Building Power Event";
+strVar += "Jan. 14: We Shall Not Be Moved March";
+strVar += "Jan. 14: Rally to Protect Immigrants";
+strVar += "Jan. 14: March and Rally for Compassion";
+strVar += "Jan. 14: Multi-Faith March to Support Immigrants";
+strVar += "Jan. 14: Immigration Advocacy Event";
+strVar += "Jan. 14: Rights and Citizenship Meeting";
+strVar += "Jan. 14: Multi-Faith Prayer Vigil";
+strVar += "Jan. 18: Know Your Rights Meeting";
+strVar += "Jan. 19: Education for All Rally";
+strVar += "Jan. 20: Gathering to Protect Immigrants and Refugees";
+strVar += "Jan. 21: Immigrant Rights Solidarity March";
+strVar += "Jan. 21: Rally for Reconciliation and Justice";
+strVar += "Jan. 16: MLK Day Commemoration";
+strVar += "Jan. 14: Neighborhood Canvassing";
+strVar += "Week of Jan. 16";
+strVar += "Import";
+strVar += "Add places to this layer by drawing or importing data. Learn more";
+strVar += "Untitled layer";
+strVar += "Import";
+strVar += "Add places to this layer by drawing or importing data. Learn more";
+strVar += "Base map";
+strVar += "Map data ©2017 Google, INEGITerms";
+strVar += "Week of Jan. 9";
+strVar += "1–62 of 62";
+strVar += "name";
+strVar += "description";
+strVar += "1";
+strVar += "2";
+strVar += "3";
+strVar += "4";
+strVar += "5";
+strVar += "6";
+strVar += "7";
+strVar += "8";
+strVar += "9";
+strVar += "10";
+strVar += "11";
+strVar += "12";
+strVar += "13";
+strVar += "14";
+strVar += "15";
+strVar += "16";
+strVar += "17";
+strVar += "18";
+strVar += "19";
+strVar += "20";
+strVar += "21";
+strVar += "22";
+strVar += "23";
+strVar += "24";
+strVar += "25";
+strVar += "26";
+strVar += "27";
+strVar += "28";
+strVar += "29";
+strVar += "30";
+strVar += "31";
+strVar += "32";
+strVar += "33";
+strVar += "34";
+strVar += "35";
+strVar += "36";
+strVar += "37";
+strVar += "38";
+strVar += "39";
+strVar += "40";
+strVar += "41";
+strVar += "42";
+strVar += "43";
+strVar += "44";
+strVar += "45";
+strVar += "46";
+strVar += "47";
+strVar += "48";
+strVar += "49";
+strVar += "50";
+strVar += "51";
+strVar += "52";
+strVar += "53";
+strVar += "54";
+strVar += "55";
+strVar += "56";
+strVar += "57";
+strVar += "58";
+strVar += "59";
+strVar += "60";
+strVar += "61";
+strVar += "62";
+strVar += "Jan. 13: Rally for Sanctuary Campus";
+strVar += "4 p.m.: Whitworth University, Hixson Union Building, Spokane, WA  99251. Host: Spokane Dream Project";
+strVar += "Jan. 13: Protect Immigrants & Refugees	5 p.m..: DREAMers and advocates hold event to support New Americans, 1900 Randolph Rd. SE, Albuquerque, NM  87106";
+strVar += "Jan. 14: Protect Immigrants & Refugees	At least 15 cities will hold assemblies to stop deportations and build a statewide movement. Information: 615-833-0384. Hosts: Tennessee Immigrant and Refugee Rights Coalition and Fair Immigration Reform Movement";
+strVar += "Jan. 14: A Meal and Conversation About Equity	Until 2 p.m.: Join faith and community members at Bethany Lutheran Church, 6 Leo Moss Dr., Olean, NY to discuss compassion.";
+strVar += "Jan 14: March to Protect Immigrants and Refugees	Join others at Centro Hispano, 501 Washington St, Reading, PA  19601, to safeguard immigrant and refugee rights and lives.";
+strVar += "Jan. 14: Martin Luther King Parade	9 a.m. Join community members at North Tryon Street and West Ninth Street in Charlotte, NC  28202, to celebrate MLK and protect immigrants and refugees. Host: Members of Action NC.";
+strVar += "Jan. 14: Press Conference to Protect Immigrants	9 a.m.: Attend a press conference at the IUSB Civil Rights Heritage Center, 1040 W. Washington St. in South Bend, IN  46601, about immigrants and refugees. Hosts: Community Coalition for Immigration Reform and St. Joe Valley Jobs With Justice";
+strVar += "Jan. 14: Legal Resource and Education Fair	9 a.m. Meet at the Manchester Center, 1901 E. Shields Ave. #203, Fresno, CA  93726 to attend a resource fair focused on protecting immigrants and refugees. ";
+strVar += "Jan. 14: MLK Solidarity March	9:15 a.m.: Meet at the intersection of University Boulevard and Martin Luther King Avenue in Albuqurque, NM for a march about MLK and anti-immigrant efforts. Host: New Mexico MLK Jr. State Commission. Look for the El Centro banner and #heretostay";
+strVar += "Jan. 14: Florida Unity and Resistance Meeting	9:30 a.m.: Learn about protecting your rights, immigration and community building at thhe South Florida AFL-CIO office at 4349 NW 36th St., Miami Springs, FL  33166. Hosts: Florida Immigration Coalition, Unity & Resistance Community and Fair Immigration Reform Movement";
+strVar += "Jan. 14: Immigrant and Refugee Rights Press Conference	10 a.m.: Advocates will gather at the Escondido Police Department, 1163 Centre City Pkwy, Escondido, CA  92026. Host: San Diego Dream Team ";
+strVar += "Jan. 14: March for Community Resistance (Resistencia Comunitaria)	10 a.m.: Immigrant families and grassroots advocates will meet at Municipal Park, 1921 N. Bicentennial Blvd, McAllen, TX  78501. Host: La Union del Pueblo Entero";
+strVar += "Jan. 14: DACA and Protecting Immigrants and Refugees	9 a.m.: Gather at LUCHA (Living United for Change in Arizona) for an event about protecting immigrants, refugees and the DACA program, 3120 N. 19th Ave. #190, Phoenix, AZ  85015";
+strVar += "Jan. 14: Immigrant Rights Forum, March and Rally	10 a.m.: Community members will be able to learn about their rights and do neighborhood outreach. Event is at Fair Haven School, 164 Grand Ave., New Haven, CT  06513. Hosts: Fair Immigration Reform Movement and Junta for Progressive Action";
+strVar += "Jan. 14: Rally for Resistance, Unity and Respect	10 a.m.: Join immigrant families and advocates at the Chicago Teachers Union, 1901 W. Carroll Ave., Chicago, IL 60612. Hosts: Illinois Coalition for Immigrant and Refugee Rights and Fair Immigration Reform Movement";
+strVar += "Jan. 14: Immigrant Rights Workshop	10:30 a.m. Meet at El Pueblo, 2321 Crabtree Blvd. #105, Raleigh, NC  27604 and learn about protecting immigrants and refugees.";
+strVar += "Jan. 14: Rally to Protect Immigrants and Refugees	10:30 a.m. Meet for the Colorado Unity Rally at Fletcher Plaza, near Martin Luther King Jr. Library, 9898 E. Colfax Ave., Aurora, CO  80010. Host: Colorado Resistance Table";
+strVar += "Jan. 14: Press Conference to Protect Immigrants and Refugees	10:30 a.m.: Immigrant rights advocates will speak to journalists at MECA, 1900 Kane St., Houston, TX  77007, about ending mass deportation and supporting New Americans. Host: Texas Organizing Project. Information: mmoreno@organizetexas.org";
+strVar += "Jan. 14: Unity Rally	11 a.m.: Members and friends of Mi Familia Vota, iAmerica, SEIU, COPA, CIRC, CLLARO, Padres Unidos and the Fair Immigration Reform Movement will hold a rally in Aurora. Information: lizeth@coloradopeoplesalliance.org or 720-938-6588.  ";
+strVar += "Jan. 14: Milwaukee March for Immigrant and Refugee Rights	11 a.m.: March starts at 1027 S. 5th St. in Milwaukee, WI  53204. Participants will call for keeping immigrant families together. Participants will come from Racine and Madison. Host: Voces de la Frontera. Information: www.vdlf.org or 414-643-1620";
+strVar += "Jan. 14: Migration Information Workshop	11 a.m..: Learn about immigrant and refugee rights at 4938 Central Ave. #101, Charlotte, NC  28205. Hosts: Latin American Coalition and Fair Immigration Reform Movement. Information: Jhparis@latinamericancoalition.org  ";
+strVar += "Jan. 14: Florida Unity and Resistance Community Meeting	11 a.m.: Learn about rights, the idea of sanctuary for immigrants and community building at Restaurante El Progresano, 320 W. Waters Ave., Tampa, FL  33604. Host: Florida Immigrant Coalition and Fair Immigration Reform Movement";
+strVar += "Jan. 14: We Are Here to Stay Rally (D.C.)	11 a.m.: Join hundreds of people at the Metropolitan AME Church, 1518 M St. NW, Washington, D.C. 20005 for the national #heretostay rally for immigrant and labor rights. Hosts: CASA, Center for Community Change, Fair Immigration Reform Movement, SEIU and United We Dream. Information: www.weareheretostay.org. ";
+strVar += "Jan. 14: San Jose Day of Action	11 a.m.: About 200 are expected at this immigrant rights rally at San Jose City Hall, 200 E. Santa Clara St., San Jose, CA  95113. Host: Services, Immigrant Rights and Education Network";
+strVar += "Jan. 14: Seattle Resistance Town Hall	12 p.m.: Social justice and immigrant rights advocates will gather at Seattle City Hall, 600 Fourth Avenue, Seattle, WA  98104, to focus on labor and immigrant rights, receiving training and participate in workshops to promote peace. ";
+strVar += "Jan. 14: Immigrant Rights Rally	Immigrant families, refugees and activists will hold their rally at the Tucson Federal Building, 300 W. Congress St., Tucson, AZ  85701.";
+strVar += "Jan. 14: CareForce One Parade and Disco	1 p.m.: Domestic workers, immigrants and employers will meet at the Perez Art Museum, 1103 Biscayne Blvd, Miami, FL  33132, and use dance, art, film and personal stories to raise awareness about social justice. Hosts: Miami Workers Center, National Domestic Workers Alliance and Studio REV.";
+strVar += "Jan. 14: Lewiston Rally for Immigrants and Refugees	11 a.m.: Residents in Maine will gather at the Franco American Heritage Center, 46 Cedar St., Lewiston, ME  04240, to protect rights for immigrants and refugees. Host: Maine People's Alliance";
+strVar += "Jan. 14: Rally to Protect Immigrants and Refugees	11 a.m.: More than 250 immigrants and advocates will meet at La Plaza de Cultura y Artes, 501 N. Main St., Los Angeles, CA  90012, for a rally, music and art performances. Hosts: CHIRLA and Fair Immigration Reform Movement";
+strVar += "Jan. 14: Syracuse Art Collective Event to Support Immigrants	12 p.m.: Residents will meet at the Syracuse Peace Council, 2013 E. Genesee St., Syracuse, NY  13203, create art and poetry to support immigrants, refugees and undocumented people. Information: higherlife72@gmail.com ";
+strVar += "Jan. 14: Miami\/Broward Immigrant Cultural Resistance	12 p.m.: Advocates, immigrants and residents will meet at the Broward Transitional Center, a federal immigration detention facility at 3900 N. Powerline Rd., Pompano Beach, FL  33073, in support of immigration and immigrants. Hosts: United We Dream, SEIU Florida, Broward SWER, We Count and other social justice organizations.";
+strVar += "Jan. 16: MLK Youth March	8:45 a.m.: Pre-rally starts at the University of Nebraska (Lincoln), followed by a \"Unifying March\" to Nebraska State Capitol, 1445 K St., Lincoln, NE  68508.";
+strVar += "Jan. 14: #HereToStay Rally	12 p.m.: Residents will meet at UAW Local 600, 10550 Dix, Dearborn, MI  48120, to honor Martin Luther King Jr. and raise awareness about civil rights, immigrants, Muslims, women, the African-American community, the LGBTQ members and workers. Information: adonis@miunited.org";
+strVar += "Jan. 14: Letter Writing Party	12 p.m.: Join area residents at 1191 E. Abriendo Ave., Pueblo, CO  81004, to write letters in support of immigrants and refugees.";
+strVar += "Jan. 14: March and Rally	12 p.m.: Residents and families will meet at Southwest Anderson Street and Fort Vancouver Way and walk to Esther Short Park in support of immigrants and refugees. Hosts: OneAmerica, LULAC, Latino Community Resource Group, Washington Conservation Voters and Sierra Club. Information: glicerio@weareoneamerica.org";
+strVar += "Jan. 14: March and Rally	12 p.m.: Social justice advocates will meet at the Oregon State Capitol, 900 Court St. NE, Salem, OR  97301, in support of immigrants and refugees and to oppose hate. Host: Causa Oregon";
+strVar += "Jan. 14: Immigrant Rights Rally	11 a.m.: Residents in the Yakima area will gather at Millennium Plaza, 22 S 3rd St, Yakima, WA 98901. Host: OneAmerica";
+strVar += "Jan. 14: Rally to Close Detention Center	12 p.m.: Advocates will hold an event to oppose the federal detention facility in the county and back immigrant rights. Host: Pennsylvania Immigration and Citizenship Council. Information: sundropcarter@paimmigrant.org ";
+strVar += "Jan. 14: Here to Stay Rally	2:30 p.m.: Residents, advocates and immigrants will meet at 1810 Belasco Ave, Pittsburgh, PA 15216 to lend their voice for social justice and talk about the case of Martin Esquivel, who is in federal detention.";
+strVar += "Jan. 16: MLK-DARE March	11:30 a.m.: Thousands will gather for a Day of Action, Resistance and Empowerment and a March for a Better America. March starts at former slave quarters at Sixth and Market Street in Philadelphia. It ends at Mother Bethel AME Church, 419 S. 6th St., Philadelphia, PA  19147. Information: www.powerinterfaith.org ";
+strVar += "Jan. 14: Resistance and Relief Training	1 p.m.: Community organizers in Colorado will meet at 2525 W. Alameda Ave.,";
+strVar += "Denver, CO, 80219, to receive training on immigrant rights and social justice. The event follows an 11 a.m. rally to support immigrants. Information: 919-360-2920 or 720-397-3758";
+strVar += "Jan. 14: Immigrant Rights Resource Fair	2 p.m.: This free event to support rights for immigrants and refugees will be held at the Pearson Community Center, 1625 W Carey Ave. N., Las Vegas, NV, 89032.";
+strVar += "Jan. 14: Know Your Rights Session	2 p.m.: Immigrants and refugees can meet with attorneys to learn about their rights at this event at the Hope CommUnity Center, 800 S Hawthorne Ave, Apopka, FL 32703.";
+strVar += "Jan. 14: Immigrant Rights Vigil	5 p.m.: Attend this public event at the Farmworker Association of Florida, 1264 Apopka Blvd., Apopka, FL  32703.";
+strVar += "Jan. 14: Vigil to Protect Immigrants	2 p.m.: Attend this event at the Hamden Town Hall, 2750 Dixwell Ave. Hamden, CT, 06518, to support the rights of immigrants and refugees.";
+strVar += "Jan. 14: Building Bridges Exhibition	2 p.m.: Celebrate Native Americans, African Americans and the contributions of immigrants from Europe and Asia at this \"Building Bridges to Better Lives\" exhibit, at the Lewis and Clark Interpretive Center, 900 Larsen Park Rd";
+strVar += "Sioux City, IA, 51103. Admission is free. ";
+strVar += "Jan. 16: Fighting Power, Building Power Event	6 p.m.: Social justice advocates will renew the call for Martin Luther King Jr.'s Beloved Community. They will meet at the Harold Washington Cultural Center, 4701 S. Martin Luther King Dr., Chicago, IL 60653. A similar event will take place in Atlanta. RSVP: https:\/\/www.imancentral.org\/mlk2017-chicago\/";
+strVar += "Jan. 16: Fighting Fear, Building Power Event	7 p.m.: Social justice advocates will renew the call for Martin Luther King Jr.'s Beloved Community. They will meet at 595 North Event Center, 595 N. Avenue, NW, Atlanta, GA  30318. A similar event will take place in Chicago. RSVP: https:\/\/www.imancentral.org\/mlk2017-atl\/";
+strVar += "Jan. 14: We Shall Not Be Moved March	11 a.m.: Participants will focus on civil rights during this march, which ends near the Martin Luther King Jr. Memorial. Rally starts at noon. Hosts: National Action Network, NAACP, NCLR, Planned Parenthood, National Congress of Black Women, Human Rights Campaign. Information: www.themarch2017.com";
+strVar += "Jan. 14: Rally to Protect Immigrants	2 p.m.: Residents will gather to at the Robert S. Vance Federal Building, 1800 5th Ave. N. Birmingham, AL  35203 to show unity and in support of immigrants and refugees. Event features from the LGBTQ, Latino, Black and Muslim communities.";
+strVar += "Jan. 14: March and Rally for Compassion	2:30 p.m.: Celebrate Martin Luther King Jr., immigrants and refugees during this march, which starts at 21st Street and L Street and ends at the Liberty Bell, 1415 Truxtun Ave.";
+strVar += "Bakersfield, CA, 93301.";
+strVar += "Jan. 14: Multi-Faith March to Support Immigrants	3 p.m.: Immigrants, DACA recipients and members of the Muslim and Black communities will hold this event at the Old Town Square, 334 North Mead St., Wichita, KS  67202. Host: Sunflower Community Action. Information: Carolina@sunfloweract.org.";
+strVar += "Jan. 14: Immigration Advocacy Event	4 p.m.: Meet at the Boston Center for the Arts, 539 Tremont St. Boston, MA, 02116, for this event about immigration and social justice. Information: lryan@miracoalition.org. Host: Massachusetts Immigrant and Refugee Advocacy Coalition";
+strVar += "Jan. 14: Rights and Citizenship Meeting	4 p.m.: Meet at St. Matthew Church, 320 N 20th Dr, Phoenix, AZ 85009, to learn about the citizenship process, immigrant rights, keeping families together and U.S. policy. U.S. citizenship and Mexico consulate officials will join with Promise Arizona representatives. ";
+strVar += "Jan. 14: Multi-Faith Prayer Vigil	6:15 p.m.: Immigrants, faith leaders and residents will meet at the Arizona State Capitol, 1700 W. Washington St., Phoenix, AZ, 85007, to stand for social justice unity.";
+strVar += "Jan. 18: Know Your Rights Meeting	4 p.m.: This informational meeting to help people understand their rights as immigrants and refugees will be held at the University of South Florida, 4202 E Fowler Ave";
+strVar += "Tampa, FL, 33620.";
+strVar += "Jan. 19: Education for All Rally	4 p.m.: This rally and press conference will focus on protecting education for everyone, regardless of immigration status. Houston Community College System Administrative Building, 3100 Main St., Houston, TX, 77002.";
+strVar += "Jan. 20: Gathering to Protect Immigrants and Refugees	5 p.m.: This event will be at the Watsonville City Plaza, 358 Main St., Watsonville, CA, 95076.";
+strVar += "Jan. 21: Immigrant Rights Solidarity March	11 a.m.: This event will include a rally at the San Marcos City Hall, 1 Civic Center Dr., San Marcos, CA, 92069.";
+strVar += "Jan. 21: Rally for Reconciliation and Justice	2 p.m.: Portage County Court, 200 E, Main St";
+strVar += "Kent , Ohio, 44240. Host: Kent InterFaith Alliance";
+strVar += "Jan. 16: MLK Day Commemoration	10 a.m.: Area residents will gather at the historic Ebenezer Baptist Church, 101 Jackson St NE, Atlanta, GA 30312, where Martin Luther King Jr. was a member. Early arrival is suggested.";
+strVar += "Jan. 14: Neighborhood Canvassing	1 p.m.: Members of Texas Organizing Project will meet community members at Courtney Place Apartments, 3232 Chapel Creek Dr., Dallas, TX 75220, to talk about immigrant and refugee rights.";
+strVar += "Instantly map your photo albums.";
+strVar += "From the import menu, choose some pictures and we'll magically put them on the map!";
+strVar += "GOT ITLEARN MORE";
+
+
+
+ 
+var foundEmails =[];
+
+var emailRegex = /(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))/;
+
+var gotcha;
+
+while (match = emailRegex.exec(strVar)){
+
+     
+     foundEmails.push(match[0]);
+
+    
+    strVar= strVar.replace(match[0],"")
+	
+}
+
+/*document.write(foundEmails.join(' '));*/
+
+var count = 0;
+for(var i = 0; i < foundEmails.length; i++){
+	count++;
+	
+	document.write(foundEmails[i] + "<br />");
+  
+       
+}
+
+</script>
+
+</head>
+
+<body>
+
+
+
+</body>
+</html>
